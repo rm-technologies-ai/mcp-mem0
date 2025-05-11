@@ -62,3 +62,12 @@ Nghbfgngh9822$
 postgresql://postgres:[YOUR-PASSWORD]@db.shueqqaomijvpascldwx.supabase.co:5432/postgres
 
 & "C:\Program Files\Python312\python.exe" -m venv .venv
+
+
+Get-Process python
+
+In our first run, cursor asked me for permission to call the save to memory tool. I did and it at least logged activity. this time, I did not even get an attempt to call the server. it looks like that prompt did not activate the call.
+
+uv run src/main.py
+
+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
